@@ -1,0 +1,5 @@
+{
+  "name": "Boongle AI Chat",
+  "description": "A feature-rich chat application powered by the Gemini API, allowing users to have conversations, upload files, and receive formatted responses.",
+  "requestFramePermissions": []
+}
